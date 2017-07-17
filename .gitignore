@@ -1,0 +1,8 @@
+# editors settings
+.vscode/*
+
+# compiled py
+*.pyc
+
+# environment depended settings
+env.py
